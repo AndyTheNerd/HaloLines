@@ -1,4 +1,4 @@
-Captain's Report - February 4th, 2531. Five years. Five long years. That's how long it took us to get Harvest back.
+﻿Captain's Report - February 4th, 2531. Five years. Five long years. That's how long it took us to get Harvest back.
 At first, it was going well... then setback after setback... loss after loss... made what was going to be a quick and decisive win into five years of hell.
 Of course that's all Harvest is today... it's hell down there. But it's ours again.
 Serina, status?
@@ -14,7 +14,7 @@ I can be quite insistent too, Captain. I can take care of myself.
 The information you have gathered here is most appetizing.
 Destroy this holy relic? Surely you jest!
 The journey requires sacrifice!
-Our patience is not inifinite!
+Our patience is not infinite!
 Lady there's no way you're coming down here on the first bird.
 What made you choose my observation deck as your lab, professor?
 Where the hell are we, Serina?
@@ -91,7 +91,7 @@ Usually the good Lord works in mysterious ways, but not today!! This here is 66 
 Dear Humanity... We regret being alien bastards. We regret coming to Earth. And we most definitely regret that the Corps just blew up our raggedy ass fleet!
 That, or you can hide behind me!
 Sir, finishing this fight.
-If they came to hear me beg, they will be dissapointed.
+If they came to hear me beg, they will be disappointed.
 Tartarus, the prophets have betrayed us...
 Tartarus has locked himself inside the control room.
 Chief...don't be a fool. Leave me.
@@ -112,7 +112,7 @@ Huh! My ass! Well, you can forget about those adjustments to your A2 scope!
 Why was it not destroyed, with the rest of their fleet?
 Me. Inside your head. Now.
 Listen tinker bell, don't make me...
-I'm not coming with you this thime.
+I'm not coming with you this time.
 You are the Arbiter, the will of the Prophets. But these are my Elites. Their lives matter to me. Yours does not.
 Kill me or release me, parasite, but do not waste my time with talk.
 Catchy. Any idea what it means?
@@ -130,10 +130,10 @@ Fail-safe protocol. In the event of unexpected shutdown, the entire system will 
 Unfortunate. His edification was most enjoyable.
 I...am...Truth! The voice of the Covenant!
 Earth, to finish what we started. And this time, none of you will be left behind.
-Elites are blind, Arbiter. But I wll make them see!
+Elites are blind, Arbiter. But I will make them see!
 I don't believe it! They're retreating! We won!
 Can you guess?
-Don't make a girl a prommise if you know you can't keep it.
+Don't make a girl a promise if you know you can't keep it.
 You want breakfast? You gotta catch it!
 And so, you must be silenced.
 Were it so easy...
@@ -173,7 +173,7 @@ Lieutenant! Arrest that man!
 Welcome home, John.
 Before this is all over, promise me you'll figure out which one of us is the machine.
 Uh, I'm sorry. Did I miss orbiting a Forerunner planet at some point?
-I was put into service eight years ago. AI's detriorate after seven, Chief.
+I was put into service eight years ago. AI's deteriorate after seven, Chief.
 Hope you don't mind hoofin' it a little.
 It's not alright. Nothing about it is alright.
 I don't know about you, but I usually like a little bit more intel with my intel.
@@ -286,7 +286,7 @@ I tire of this doctor. You have been chasing shadows for weeks to no avail.
 Tell me the truth. How many people died when you called the Guardians here?
 You created Cortana, Doc, and now you're throwing her out of the airlock with these accusations.
 Why is Cortana the problem? Because she refused to die when she was supposed to?
-You think she tricked the Master Chief into abandoning his post? Respectuflly sir, to what end?
+You think she tricked the Master Chief into abandoning his post? Respectfully sir, to what end?
 Just one more question before I go...where is the Infinity? Why is she so difficult to see?
 It's been an honor serving with you, John.
 No!
@@ -403,7 +403,7 @@ This is fascinating. You're trying to survive...but I Was programmed to die.
 My time is ended. Yours too. They will make sure.
 The Endless will return.
 I'm sorry. I didn't have long to plan this. A few milliseconds really. I hope it worked out.
-I was wrong. I thought I could do this on my own, but I forgot the whole point of all this, the enire reason I chose you in the first place was that we were supposed to be a team.
+I was wrong. I thought I could do this on my own, but I forgot the whole point of all this, the entire reason I chose you in the first place was that we were supposed to be a team.
 Perfectly suited. Perfectly matched. Perfectly perfect.
 In these final moments I know what my last mission is. I need to make sure you two learn from my mistakes. Become stronger because of them. 
 I chose well, Master Chief. I really did. Now it's up to you.
