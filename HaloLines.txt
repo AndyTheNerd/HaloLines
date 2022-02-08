@@ -8,6 +8,7 @@ For Samuel!
 The leader controls the beam!
 Join the rest of your friends!
 Sergeant Forge, report.
+The Spirit of Fire is in the situation I...could not anticipate.
 Definitely plenty of bad guys down here, Captain. And they found something in the ice.
 We're to bring Alpha Base up to operational status and take control of that site.
 I can be quite insistent too, Captain. I can take care of myself.
@@ -15,10 +16,14 @@ The information you have gathered here is most appetizing.
 Destroy this holy relic? Surely you jest!
 The journey requires sacrifice!
 Our patience is not infinite!
+Yes. Run, little demons.
+Hold your position, Red Team. Reinforcements will come to you.
 Lady there's no way you're coming down here on the first bird.
 What made you choose my observation deck as your lab, professor?
 Where the hell are we, Serina?
 I like the view. It adds...perspective to my work.
+Your primary objective? Commander, are you a puppet or a Spartan?
+Analyzing...
 It might be the key to this whole war, Serina. It's worth the risk.
 The Hierarchs grow impatient! We can delay no longer!
 What if the infection defiles the relic?
@@ -31,7 +36,11 @@ All units!
 Local units!
 Forge is down!
 Hitching a ride!
+By the Prophets... You will pay for your insolence!
+I'm going to search what's left of the Covenant battlenet, and see if I can locate the Pillar of Autumn's crash site. If the ship's fusion reactors are still relatively intact, we can use them to destroy Halo.
 Captain, wake up. Something has happened.
+Good work, Noble Six. UNSC air support: skies are clear.
+The Covenant found something, buried in this ring, something horrible, and now...they're afraid.
 My face will be the last thing your pathetic eyes ever see.
 His name, is Atriox.
 As I suspected, nothing, but a man.
@@ -42,19 +51,25 @@ Twenty eight years Professor, let's see what kind of galaxy we woke up to.
 If we don't stop Atriox now, we leave the galaxy at the mercy of a monster. So no, Isabel. We won't be running anywhere today.
 Got some trickshots I'm dying to try out!
 Hostile's taking a well deserved dirt nap!
+Good to see you, Master Chief. Things aren't going well. Cortana did her best, but we never really had a chance.
 Hoorah Marines!
 Don't ask how I got here...it's complicated.
 But Cortana...these coordinates are underground.
 Captain Keyes...
 Looks like the Covenant wanted to catch you napping.
+We can't let the Flood get off this ring! You know what he'd expect...
 Sleepers! Take 'em out, nice and quiet!
 Tell that to the Covenant.
 Let's give our old friend a warm welcome.
 Let's go Marines, the Corps ain't paying us by the hour!
+Sir, why would rebels want to cut off Reach from the rest of the colonies?
 This is pelican Echo 419, you got 2 enemy drop ships coming in fast!
 This is Echo 419. Chief! Is that you?
 Gunny, I can fly a Pelican, but a Phantom? It's been years since I even ran a simulation!
 Why? Looking for a little payback?
+You have the MAC gun, Cortana. As soon as they come in range, open up.
+First Squad, you're my scouts. As for you, just try not to wreck my planet. Move out! Quiet as you can.
+First glassing? Me too. Don’t worry, I’m on it. Our best option is a fallout bunker in Sublevel 2. Ninety-six metres northeast. We get orders from Holland, sir?
 I saw it too. It looks like a temple. If I were megalomaniac (and I'm not), that's where I'd be.
 He stopped the self-destruct sequence...
 Get here first? The Covenant ships have always been faster.
@@ -64,7 +79,7 @@ Look on the bright side, Foe Hammer: The last thing the Covenant will expect is 
 Interesting... the weather patterns here seem natural, not artificial. I wonder if the ring's environment systems are malfunctioning... or if the designers wanted the installation to have inclement weather.
 You did that on purpose, didn't you?
 Greetings. I am the Monitor of installation 04. I am 343 Guilty Spark.
-No human lifesigns detected. The Captain! He's one of *them*.
+No human lifesigns detected. The Captain! He's one of them!
 Wort wort wort!
 I knew it. The Autumn is accelerating. Keyes in going in manually!
 We did what we had to do! For Earth! An entire Covenant armada obliterated, and the Flood! We had no choice. Halo...it's finished.
@@ -79,12 +94,14 @@ Oh, I know what the ladies like...
 Get up, SO I CAN KILL YOU AGAIN!
 I'm too pretty to die!
 I need a weapon.
+And I don't do bits and pieces!
 Good see you Master Chief. Things aren't going so well. Cortana did her best, but we never really had a chance.
 Everyone, sir?
 I think we both know the answer to that.
 I beg your pardon? I am 343 Guilty Spark, Monitor of Installation 04.
 Just keep your head down. There's two of us in here, remember?
 Thanks for the tank... he never gets me anything.
+Sir, additional contacts! Boarding craft, and lots of 'em!
 You told me there wouldn't be any cameras. And you told me you were gonna wear something nice!
 High Charity?! By the gods, BRACE FOR IMPACT!!!!
 Usually the good Lord works in mysterious ways, but not today!! This here is 66 tons of HE spewin, dee-vine intervention!! If war is love then you can call me Cupid!!
@@ -103,6 +120,7 @@ Sir, permission to leave this station.
 I know what you are thinking, and it's crazy. Unfortunately for us both...I like crazy.
 Just one question: what if you miss?
 Master Chief! You mind telling me what you're doing on that ship?!
+Relax. I'd rather not piss this thing off.
 Quiet! You two whimper like Grunts fresh off the teat. He's not meant for the jails. The Hierarchs have something special in mind.
 For your destruction is the will of the gods! And I? I am their instrument!
 Stay where you are! Nothing can be done until my sermon is complete!
@@ -116,11 +134,13 @@ I'm not coming with you this time.
 You are the Arbiter, the will of the Prophets. But these are my Elites. Their lives matter to me. Yours does not.
 Kill me or release me, parasite, but do not waste my time with talk.
 Catchy. Any idea what it means?
+Greetings! I am 2401 Penitent Tangent. I am the monitor of installation 05.
 So, this is what my father found... I thought Halo was some sort of superweapon.
 I want all the information you've got on the first Halo. Schematics, topography, whatever. I don't care if I have the clearance or not.
 This is not your grave, but you are welcome in it.
 There is much talk, and I have listened, through rock and metal and time. Now I shall talk, and you shall listen.
 When you first saw Halo, were you blinded by its majesty?
+What mission? You dropped off the grid! My squad was scattered-
 Yet the humans were able to evade your ships, land on the sacred ring, and desecrate it with their filthy footsteps.
 You were right to focus your attention on the Flood. But this demon, this Master Chief...
 Why was it not destroyed along with the rest of their fleet?
@@ -152,6 +172,7 @@ Take us home.
 Then it is an even fight!
 Wake me...when you need me.
 But you did it. Truth and the Covenant, the Flood...
+The Scarab is destroyed. Victory is ours today.
 Send me out...with a bang.
 Master Chief? Good, this channel is secure. My fireteams are spread thin. We can't hold out forever. I need that hangar cleared for evac, ASAP.
 All ships fire at will, burn their mongrel hinds.
@@ -162,6 +183,11 @@ Does he usually mention me?
 You know me. I did my research. Watched as you became the very soldier we needed you to be.
 Kiss...my...asss.
 Hey bastards! Knock knock!
+Orders are orders.
+Slipspace rupture detected.
+There goes his shield!
+Real pretty. Friend of yours?
+Nothing ventured, nothing gained, right?
 Don't...don't let her go. Don't ever let her go. Send me out...with a bang.
 What are you after? The others before you were Naval Intelligence but you - you're something else.
 What does John have to do with this? ...you want to replace him.
@@ -208,6 +234,7 @@ Our duty as soldiers, is to protect Humanity, whatever the cost.
 She said that to me once. About being a machine.
 Commander Lasky. Pursuant to Article 55 of UNSC Regulation 12-145-72, I am ordering you to remove that AI's data chip and retire it for final dispensation.
 Give. Me. That. Chip.
+Damn Lieutenant. Glad you're on our side. The elevator will get you to the tower.
 We trade one villain for another.
 Chief, Palmer again. The Mammoth's got jetpacks onboard. If I were down there, I'd want one.
 What I want to know, people, is where the hell did those things come from?
@@ -217,11 +244,13 @@ Even in death, her meddling continues.
 I sense your malfunctioning companion, human. And yet, she eludes me.
 Wake up, Chief. I need you.
 Ready to get back to work?
+Chief, when you get to Earth... Good luck.
 How long was I out?
 I thought we had a truce with the Covenant.
 If we could just back to Earth, and find Halsey, she could fix this.
 Earth. Haven't seen it in years.
 Mickey? I'm sending you a very special co-pilot.
+Something tells me you're not a rookie...
 It's a long story, but I know what the Didact is after.
 It was my job to take care of you.
 Beautiful, isn't she? I don't get to ser her often enough. I grew up on New Harmony. Never saw Earth until I was an adult...but I still think of her as home.
@@ -234,6 +263,8 @@ I know we're losing... I want to know if we've lost.
 I'm ready... how bout' you?
 Noble Leader, seek immediate medical attention.
 Noble Leader, please respond.
+This is it, baby! Hold me.
+They're not rebels, they're farmers. Look at them.
 Our foe is more devious than we imagined. That spire was indeed a teleporter linked to a cloaked, Covenant supercarrier... A grave threat.
 It didn't take long for Reach to fall. Our enemy was ruthless. Efficient. But they weren't nearly fast enough. For you had already passed the torch. And because of you, we found Halo, unlocked its secrets, shattered our enemy's resolve.
 Our victory - your victory - was so close...I wish you could have lived to see it. But you belong to Reach. Your body, your amor - all burned and turned to glass. Everything...except your courage. That, you gave to us. And with it, we can rebuild.
@@ -247,6 +278,7 @@ Six. That AI chose you. She made the right choice.
 Mankind is outmatched. When Reach falls - and it will fall - our annihilation is all but certain.
 Affirmative. It's the Winter Contingency!
 You know the music, time to dance.
+Safe is better than close, Sergeant Major.
 Ms. Naval Intelligence, our new boss. So check your mouths, find your chairs, and get set for a combat drop!
 Warning! Hitchhikers may be escaped convicts!
 Hey Rookie, you out there? Respond, that's an order!
@@ -254,6 +286,7 @@ Down there? That's the Superintendent. The AI that runs every system in the city
 Captain Lasky, I sent you my position three weeks ago! I told you this was happening!
 Spartan Locke. I have spent enough years with ONI to know the truth. Once this is over, after all I have done...they'll order you...to kill us both.
 It took you long enough.
+That's what I miss most about you, Buck. The way your mouth's always move a little faster than your brain.
 Negative, Infinity. I don't like it.
 You ask, you buy.
 Doctor Halsey. Captain Lasky would like a word with you.
@@ -323,6 +356,7 @@ Get ready.
 I chose you because you were special.
 I knew we would be perfect together.
 May God help us all.
+It has been a pleasure and an honor to serve with you, sir.
 No thanks to your driving, yes.
 We're out of time, Chief! Get to the conduit!
 Scanning...just dust and echoes. We are all that's left.
@@ -391,6 +425,7 @@ Did you hit your head or something? My instructions were to enter this installat
 Good? My programming failed. I'm not supposed to be here. You need to delete me.
 The missions change. They always do.
 Hello Master Chief. I'm Cortana.
+Now, at last, I see! Her secret is revealed!
 This is Spartan Bonita Stone. Recon specialist. Her vitals have been offline for nearly a month.
 Escharum's orders are that you should be brought before him! He did not specify in how many pieces.
 FOR THE BANISHED!
@@ -402,8 +437,30 @@ Cortana's no longer a threat. And now she's going to help us stop the Banished.
 This is fascinating. You're trying to survive...but I Was programmed to die.
 My time is ended. Yours too. They will make sure.
 The Endless will return.
+Make the most of your victory, humans. It will be your last.
 I'm sorry. I didn't have long to plan this. A few milliseconds really. I hope it worked out.
 I was wrong. I thought I could do this on my own, but I forgot the whole point of all this, the entire reason I chose you in the first place was that we were supposed to be a team.
 Perfectly suited. Perfectly matched. Perfectly perfect.
 In these final moments I know what my last mission is. I need to make sure you two learn from my mistakes. Become stronger because of them. 
 I chose well, Master Chief. I really did. Now it's up to you.
+The Banished go where they want and destroy any who oppose! Is Atriox's rise not proof of this?
+They're mine. Now to... IMPRISON THEM?!? LIKE HE IMPRISONED HIS PROMETHEANS? LIKE DR. HALSEY IMPRISONED ME??
+It's enough.
+Then there's still hope.
+We all fail. We all make mistakes. It’s what makes us human.
+When you look back on these last days you will realize that all you built... was a tomb. A place where hope dies.
+Just promise me one thing: Whatever happens, save him. He needs you. You’re all he has.
+The intricacies of any action are complex. The reactions numerous, yet mostly predictable.
+Banished? What are they doing here?
+A Spartan is a symbol... In times of darkness, we are hope. And together... we are unstoppable!
+Dibs on the helmet!
+Men, keep your eyes downrange, fingers on the triggers, and we all come home in one piece. Am I right, Marines?
+That, or you can hide behind me. You done with my boy here Master Guns? I don’t see any training wheels.
+Enough! The Flood is spreading. If we activate Halo’s defenses, we can wipe them out.
+Our fighters are mopping up the last of their recon picket now, nothing serious; but I’ve isolated approach signatures from multiple CCS-class battle groups, make it three capital ships per group. And, in about 90 seconds, they’ll be all over us.
+Folks need heroes chief, to give ’em hope, so smile would ya, while we still got something to smile about!
+That’s a one-way trip.
+A dozen Covenant superior battleships against a single Halcyon-class cruiser. Given those odds, I’m content with three...make that four kills.
+Asking’s not my strong suit.
+Thought I'd try shooting my way out... mix things up a little.
+Chief, wait! The Arbiter's with us!
